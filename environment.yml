@@ -95,6 +95,7 @@ dependencies:
     - nb2pdf==0.6.2
     - nbconvert[webpdf]==7.16.5
     - nbpdfexport==0.2.1
+    - git-credential-helpers==0.2
     - otter-grader==6.0.4
 
     # other packages
